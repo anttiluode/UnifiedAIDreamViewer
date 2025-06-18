@@ -4,7 +4,7 @@ This project is a real-time, interactive simulation of a hybrid neural system th
 
 The application runs a simulated brain that can "perceive" the world through a webcam and can be switched into a "dreaming" state where it generates images purely from its own internal dynamics. An AI decoder model is trained in real-time to act as a "brain scanner," translating the simulated brain's activity into a human-visible image.
 
-![Screenshot of the Dream Viewer](https_i_imgur_com_e3bea1.jpg)
+![Screenshot of the Dream Viewer](image.png)
 
 ## Core Components
 
