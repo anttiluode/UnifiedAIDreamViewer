@@ -1,5 +1,10 @@
 # Unified AI Dream Viewer
 
+EDIT:
+
+Added version 2 that uses only a single fractal field per layer. They were inherited from earlier chess instanton code.. 
+This one works faster due to the fields not being shown so you can have more neurons in the fields. 
+
 This project is a real-time, interactive simulation of a hybrid neural system that visually demonstrates principles of computational neuroscience, including self-organization and the theory of perception as "controlled hallucination."
 
 The application runs a simulated brain that can "perceive" the world through a webcam and can be switched into a "dreaming" state where it generates images purely from its own internal dynamics. An AI decoder model is trained in real-time to act as a "brain scanner," translating the simulated brain's activity into a human-visible image.
