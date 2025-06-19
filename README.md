@@ -3,7 +3,8 @@
 EDIT:
 
 Added version 2 that uses only a single fractal field per layer. They were inherited from earlier chess instanton code.. 
-This one works faster due to the fields not being shown so you can have more neurons in the fields. 
+This one works faster due to the fields not being shown so you can have more neurons in the fields. Added a text file 
+about the new version also. 
 
 This project is a real-time, interactive simulation of a hybrid neural system that visually demonstrates principles of computational neuroscience, including self-organization and the theory of perception as "controlled hallucination."
 
